@@ -17,32 +17,28 @@ The course is divided into four main parts, each focusing on different aspects o
 
 The repository contains detailed summaries for each part of the course. These summaries include key learning objectives, main topics, critical theories and frameworks, definitions of technical terms, and references. Each summary is designed to provide a comprehensive overview of the content covered in the respective weeks.
 
-### Part 1: The Philosophy and Theories of Ethics (Weeks 1-2)
-<li><a href="Summaries/Week 12 - Course Summary - Part 1.html">Week 12 Course Summary - Part 1</a></li>
+### Part 1: The Philosophy and Theories of Ethics (Weeks 1-2) <li><a href="Summaries/Week 12 - Course Summary - Part 1.html">Week 12 Course Summary - Part 1</a></li>
 - **Key Learning Objectives:** Understanding ethical theories, individual character, and moral rules.
 - **Main Topics:** Ethics overview, professional qualities, understanding morality, ethical theories.
 - **Critical Theories and Frameworks:** Kohlberg’s stages of moral development, Longstaff’s three views of human nature.
 - **Definitions of Technical Terms:** Ethics, morality, virtue, consequentialism, deontology.
 - **References:** Shaw & Barry (2016), Longstaff (1998).
 
-### Part 2: Business and Society (Weeks 3-7)
-<li><a href="Summaries/Week 12 - Course Summary - Part 2.html">Week 12 Course Summary - Part 2</a></li>
+### Part 2: Business and Society (Weeks 3-7) <li><a href="Summaries/Week 12 - Course Summary - Part 2.html">Week 12 Course Summary - Part 2</a></li>
 - **Key Learning Objectives:** Relationship between business and society, corporate social responsibility (CSR), moral justifications of capitalism, globalization.
 - **Main Topics:** Capitalism, rival views of corporate responsibility, CSR, globalization, social legitimacy, reputation management.
 - **Critical Theories and Frameworks:** Milton Friedman’s perspective, stakeholder theory, triple bottom line.
 - **Definitions of Technical Terms:** Capitalism, CSR, globalization, stakeholder theory, triple bottom line.
 - **References:** Shaw & Barry (2016), Friedman (1970), Freeman (1984), Elkington (1997).
 
-### Part 3: The Morality and Ethics of Consumption (Week 8)
-<li><a href="Summaries/Week 12 - Course Summary - Part 3.html">Week 12 Course Summary - Part 3</a></li>
+### Part 3: The Morality and Ethics of Consumption (Week 8) <li><a href="Summaries/Week 12 - Course Summary - Part 3.html">Week 12 Course Summary - Part 3</a></li>
 - **Key Learning Objectives:** Ethical dimensions of consumer behavior, responsibilities of businesses in ensuring product safety, marketing misrepresentation, corporate accountability.
 - **Main Topics:** Product safety and quality, marketing misrepresentation, corporate accountability, consumer protection.
 - **Critical Theories and Frameworks:** Utilitarianism, deontological ethics, virtue ethics.
 - **Definitions of Technical Terms:** Product safety, marketing misrepresentation, corporate accountability, consumer protection, utilitarianism, deontological ethics, virtue ethics.
 - **References:** Shaw & Barry (2016), Simons (1999), Hartman, DesJardins, & MacDonald (2014).
 
-### Part 4: How Do We Behave Ethically Within an Organization? (Weeks 9-11)
-<li><a href="Summaries/Week 12 - Course Summary - Part 4.html">Week 12 Course Summary - Part 4</a></li>
+### Part 4: How Do We Behave Ethically Within an Organization? (Weeks 9-11) <li><a href="Summaries/Week 12 - Course Summary - Part 4.html">Week 12 Course Summary - Part 4</a></li>
 - **Key Learning Objectives:** Principles of ethical leadership, corporate governance, risk management, institutionalizing ethics.
 - **Main Topics:** Ethical leadership, corporate governance, risk management, institutionalizing ethics, balancing self-interest and moral obligations.
 - **Critical Theories and Frameworks:** Kohlberg’s stages of moral development, corporate governance frameworks, normative ethics.
