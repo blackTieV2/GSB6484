@@ -52,9 +52,7 @@ The repository contains detailed summaries for each part of the course. These su
 - **Explore the Critical Theories:** The summaries include critical theories and frameworks that offer different perspectives on corporate governance and social responsibility.
 - **Check the References:** The references section in each summary provides the sources for further reading and exploration of the topics.
 
-## Contact
 
-For any questions or further information, please contact Dr. Cheong Kevin at [email address].
 
 ---
 
