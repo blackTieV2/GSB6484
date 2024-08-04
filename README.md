@@ -17,21 +17,21 @@ The course is divided into four main parts, each focusing on different aspects o
 
 The repository contains detailed summaries for each part of the course. These summaries include key learning objectives, main topics, critical theories and frameworks, definitions of technical terms, and references. Each summary is designed to provide a comprehensive overview of the content covered in the respective weeks.
 
-### [Part 1: The Philosophy and Theories of Ethics (Weeks 1-2)](Summaries/Week 12 - Course Summary - Part 1.html)
+### Part 1: The Philosophy and Theories of Ethics (Weeks 1-2)
 - **Key Learning Objectives:** Understanding ethical theories, individual character, and moral rules.
 - **Main Topics:** Ethics overview, professional qualities, understanding morality, ethical theories.
 - **Critical Theories and Frameworks:** Kohlberg’s stages of moral development, Longstaff’s three views of human nature.
 - **Definitions of Technical Terms:** Ethics, morality, virtue, consequentialism, deontology.
 - **References:** Shaw & Barry (2016), Longstaff (1998).
 
-### [Part 2: Business and Society (Weeks 3-7)](Summaries/Week 12 - Course Summary - Part 2.html)
+### Part 2: Business and Society (Weeks 3-7)
 - **Key Learning Objectives:** Relationship between business and society, corporate social responsibility (CSR), moral justifications of capitalism, globalization.
 - **Main Topics:** Capitalism, rival views of corporate responsibility, CSR, globalization, social legitimacy, reputation management.
 - **Critical Theories and Frameworks:** Milton Friedman’s perspective, stakeholder theory, triple bottom line.
 - **Definitions of Technical Terms:** Capitalism, CSR, globalization, stakeholder theory, triple bottom line.
 - **References:** Shaw & Barry (2016), Friedman (1970), Freeman (1984), Elkington (1997).
 
-### [Part 3: The Morality and Ethics of Consumption (Week 8)](Summaries/Week 12 - Course Summary - Part 3.html)
+### Part 3: The Morality and Ethics of Consumption (Week 8)
 - **Key Learning Objectives:** Ethical dimensions of consumer behavior, responsibilities of businesses in ensuring product safety, marketing misrepresentation, corporate accountability.
 - **Main Topics:** Product safety and quality, marketing misrepresentation, corporate accountability, consumer protection.
 - **Critical Theories and Frameworks:** Utilitarianism, deontological ethics, virtue ethics.
