@@ -38,7 +38,7 @@ The repository contains detailed summaries for each part of the course. These su
 - **Definitions of Technical Terms:** Product safety, marketing misrepresentation, corporate accountability, consumer protection, utilitarianism, deontological ethics, virtue ethics.
 - **References:** Shaw & Barry (2016), Simons (1999), Hartman, DesJardins, & MacDonald (2014).
 
-### [Part 4: How Do We Behave Ethically Within an Organization? (Weeks 9-11)](Summaries/Week 12 - Course Summary - Part 4.html)
+### Part 4: How Do We Behave Ethically Within an Organization? (Weeks 9-11)
 - **Key Learning Objectives:** Principles of ethical leadership, corporate governance, risk management, institutionalizing ethics.
 - **Main Topics:** Ethical leadership, corporate governance, risk management, institutionalizing ethics, balancing self-interest and moral obligations.
 - **Critical Theories and Frameworks:** Kohlberg’s stages of moral development, corporate governance frameworks, normative ethics.
