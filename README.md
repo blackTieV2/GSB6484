@@ -53,6 +53,7 @@ The repository contains detailed summaries for each part of the course. These su
 </head>
 <body>
     <h1>GSB6484 Course Summaries</h1>
+    <p><a href="https://blacktiev2.github.io/GSB6484/">Visit GitHub Pages Site</a></p>
     <ul>
         <li><a href="Summaries/Week 01 - Summary.html">Week 01 Summary</a></li>
         <li><a href="Summaries/Week 02 - Summary.html">Week 02 Summary</a></li>
@@ -70,7 +71,7 @@ The repository contains detailed summaries for each part of the course. These su
         <li><a href="Summaries/Week 12 - Course Summary - Part 4.html">Week 12 Course Summary - Part 4</a></li>
     </ul>
 </body>
-</html>>
+</html>
 
 
 
