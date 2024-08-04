@@ -55,21 +55,22 @@ The repository contains detailed summaries for each part of the course. These su
 <body>
     <h1>GSB6484 Course Summaries</h1>
     <ul>
-        <li><a href="Week 01 - Summary.html">Week 01 Summary</a></li>
-        <li><a href="Week 02 - Summary.html">Week 02 Summary</a></li>
-        <li><a href="Week 03 - Summary.html">Week 03 Summary</a></li>
-        <li><a href="Week 04 - Summary.html">Week 04 Summary</a></li>
-        <li><a href="Week 05 - Summary.html">Week 05 Summary</a></li>
-        <li><a href="Week 06 - Summary.html">Week 06 Summary</a></li>
-        <li><a href="Week 07 - Summary.html">Week 07 Summary</a></li>
-        <li><a href="Week 08 - Summary.html">Week 08 Summary</a></li>
-        <li><a href="Week 09 - Summary.html">Week 09 Summary</a></li>
-        <li><a href="Week 10 - Summary.html">Week 10 Summary</a></li>
-        <li><a href="Week 11 - Summary.html">Week 11 Summary</a></li>
-        <li><a href="Week 12 - Summary.html">Week 12 Summary</a></li>
+        <li><a href="main/Summaries/Week 01 - Summary.html">Week 01 Summary</a></li>
+        <li><a href="main/Summaries/Week 02 - Summary.html">Week 02 Summary</a></li>
+        <li><a href="main/Summaries/Week 03 - Summary.html">Week 03 Summary</a></li>
+        <li><a href="main/Summaries/Week 04 - Summary.html">Week 04 Summary</a></li>
+        <li><a href="main/Summaries/Week 05 - Summary.html">Week 05 Summary</a></li>
+        <li><a href="main/Summaries/Week 06 - Summary.html">Week 06 Summary</a></li>
+        <li><a href="main/Summaries/Week 07 - Summary.html">Week 07 Summary</a></li>
+        <li><a href="main/Summaries/Week 08 - Summary.html">Week 08 Summary</a></li>
+        <li><a href="main/Summaries/Week 09 - Summary.html">Week 09 Summary</a></li>
+        <li><a href="main/Summaries/Week 10 - Summary.html">Week 10 Summary</a></li>
+        <li><a href="main/Summaries/Week 11 - Summary.html">Week 11 Summary</a></li>
+        <li><a href="main/Summaries/Week 12 - Summary.html">Week 12 Summary</a></li>
     </ul>
 </body>
 </html>
+
 
 
 ## How to Use This Repository
