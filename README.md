@@ -45,6 +45,33 @@ The repository contains detailed summaries for each part of the course. These su
 - **Definitions of Technical Terms:** Ethical leadership, corporate governance, risk management, ethics program, conflict of interest.
 - **References:** Shaw & Barry (2016), COSO (2017), Kohlberg (1981).
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GSB6484 Summaries</title>
+</head>
+<body>
+    <h1>GSB6484 Course Summaries</h1>
+    <ul>
+        <li><a href="Week 01 - Summary.html">Week 01 Summary</a></li>
+        <li><a href="Week 02 - Summary.html">Week 02 Summary</a></li>
+        <li><a href="Week 03 - Summary.html">Week 03 Summary</a></li>
+        <li><a href="Week 04 - Summary.html">Week 04 Summary</a></li>
+        <li><a href="Week 05 - Summary.html">Week 05 Summary</a></li>
+        <li><a href="Week 06 - Summary.html">Week 06 Summary</a></li>
+        <li><a href="Week 07 - Summary.html">Week 07 Summary</a></li>
+        <li><a href="Week 08 - Summary.html">Week 08 Summary</a></li>
+        <li><a href="Week 09 - Summary.html">Week 09 Summary</a></li>
+        <li><a href="Week 10 - Summary.html">Week 10 Summary</a></li>
+        <li><a href="Week 11 - Summary.html">Week 11 Summary</a></li>
+        <li><a href="Week 12 - Summary.html">Week 12 Summary</a></li>
+    </ul>
+</body>
+</html>
+
+
 ## How to Use This Repository
 
 - **Read the Summaries:** Each part contains detailed summaries that can be used to review and understand the key concepts and theories covered in the course.
